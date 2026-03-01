@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset or analysis, please cite it as below."
+type: dataset
+title: "Deepfakes as Gendered Weapons: A Systematic Literature Review Bridging Face-Swap Detection Bias, Platform Failures, and Gender-Based Violence"
+authors:
+  - family-names: "[Your Surname]"
+    given-names: "[Your First Name]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "[Your University]"
+date-released: "2026-03-01"
+url: "https://github.com/YOUR_USERNAME/deepfake-bias-gbv-slr"
+license: CC-BY-4.0
+keywords:
+  - deepfake
+  - detection bias
+  - gender-based violence
+  - AI fairness
+  - face-swap
+  - IBSA
+  - NSII
+  - systematic literature review
+  - PRISMA
+abstract: "Systematic literature review of 48 verified studies (2017-2026) bridging deepfake detection bias research and gender-based violence research. Proposes the Gendered Deepfake-to-Harm Pipeline framework."
