@@ -2,7 +2,7 @@
 
 ## A Systematic Literature Review Bridging Face-Swap Detection Bias, Platform Failures, and Gender-Based Violence
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/deepfake-bias-gbv-slr/blob/main/SLR_48_Complete_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rfagreat/deepfake-bias-gbv-slr/blob/main/SLR_48_Complete_Analysis.ipynb)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Studies](https://img.shields.io/badge/Verified%20Studies-48-blue.svg)]()
 [![Year](https://img.shields.io/badge/Coverage-2017--2026-green.svg)]()
@@ -110,7 +110,7 @@ If you use this work, please cite:
 ```bibtex
 @article{author2026deepfakes,
   title={Deepfakes as Gendered Weapons: A Systematic Literature Review Bridging Face-Swap Detection Bias, Platform Failures, and Gender-Based Violence},
-  author={[Author Name]},
+  author={Rao Faizan Ali},
   journal={[Target Journal]},
   year={2026}
 }
@@ -122,9 +122,9 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ### Contact
 
-- **Author:** [Your Name]
-- **Affiliation:** [Your University]
-- **Email:** [your.email@university.ac.uk]
+- **Author:** Rao Faizan Ali
+- **Affiliation:** Institute of Cybersecurity and Society, University of Kent 
+- **Email:** r.f.ali@university.ac.uk
 
 ---
 
