@@ -30,9 +30,9 @@ deepfake-bias-gbv-slr/
 │
 ├── README.md                          # This file
 ├── LICENSE                            # CC BY 4.0
-├── SLR_48_Complete_Analysis.ipynb     # Full Colab notebook (figures + tables + analysis)
+├── SLR_62_Complete_Analysis.ipynb     # Full Colab notebook (figures + tables + analysis)
 ├── data/
-│   └── studies_48.csv                 # Complete dataset of 48 verified studies
+│   └── studies_62.csv                 # Complete dataset of 48 verified studies
 ├── figures/
 │   ├── fig1_prisma.png                # PRISMA flow diagram
 │   ├── fig2_temporal.png              # Temporal distribution
