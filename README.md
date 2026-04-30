@@ -78,10 +78,10 @@ Every included study has been independently verified with its exact published ti
 Or run locally:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/deepfake-bias-gbv-slr.git
+git clone https://github.com/rfagreat/deepfake-bias-gbv-slr.git
 cd deepfake-bias-gbv-slr
 pip install matplotlib seaborn pandas numpy
-jupyter notebook SLR_48_Complete_Analysis.ipynb
+jupyter notebook SLR_62_Complete_Analysis.ipynb
 ```
 
 ### Citation
