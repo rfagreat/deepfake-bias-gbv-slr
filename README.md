@@ -2,7 +2,7 @@
 
 ## A Systematic Literature Review Bridging Face-Swap Detection Bias, Platform Failures, and Gender-Based Violence
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rfagreat/deepfake-bias-gbv-slr/blob/main/SLR_48_Complete_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1K8pJ_tOygUWOOKeeCUjPZNn9dx9n7fkE#scrollTo=c1)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Studies](https://img.shields.io/badge/Verified%20Studies-48-blue.svg)]()
 [![Year](https://img.shields.io/badge/Coverage-2017--2026-green.svg)]()
@@ -13,7 +13,7 @@
 
 Deepfake technology is overwhelmingly weaponised against women. Approximately 98% of deepfake videos are pornographic and 99% target women. The dominant tools used for this abuse are face-swap and nudify applications based on GAN architectures. Detection systems designed to combat this abuse exhibit significant demographic bias on GAN-based content, with up to 10.7% difference in False Positive Rates between racial subgroups. A recent empirical study published in 2026 found no such bias when testing on diffusion-generated images, raising the question of whether detection fairness depends on the type of deepfake being evaluated.
 
-This systematic literature review is the first to bridge these two domains, synthesising 48 rigorously verified studies published between 2017 and 2026. We propose the **Gendered Deepfake-to-Harm Pipeline**, a framework mapping how face-swap detection bias compounds gender-based violence through five stages: Creation → Distribution → Detection Attempt → Disparity Gap → Compounded Harm.
+This systematic literature review is the first to bridge these two domains, synthesising 62 rigorously verified studies published between 2017 and 2026. We propose the **Gendered Deepfake-to-Harm Pipeline**, a framework mapping how face-swap detection bias compounds gender-based violence through five stages: Creation → Distribution → Detection Attempt → Disparity Gap → Compounded Harm.
 
 ### Key Contribution
 
@@ -42,30 +42,11 @@ deepfake-bias-gbv-slr/
 └── .gitignore                         # Git ignore rules
 ```
 
-### 48 Verified Studies
+### 62 Verified Studies
 
 Every included study has been independently verified with its exact published title and venue. The corpus spans seven thematic categories:
 
-| Theme | Code | Count | % |
-|---|---|---|---|
-| Surveys & Reviews | SUR | 10 | 20.8% |
-| Detection Methods | DET | 10 | 20.8% |
-| Detection Bias & Fairness | BIAS | 11 | 22.9% |
-| Prevalence & Forms | PREV | 7 | 14.6% |
-| Legal & Regulatory | LAW | 5 | 10.4% |
-| Psychosocial Impact | PSY | 4 | 8.3% |
-| Platform Response | PLT | 1 | 2.1% |
-| **Total** | | **48** | **100%** |
 
-### PRISMA Flow
-
-```
-Database search (1,247) + Snowballing (38) = 1,285 records
-  → After duplicates removed: 843
-    → Title/abstract screening: 152 passed
-      → Full-text eligibility: 48 included
-        → Independent verification: 48 confirmed
-```
 
 ### Figures
 
